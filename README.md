@@ -44,12 +44,17 @@ Install Sublime Text 3 Package Control (https://sublime.wbond.net/installation)
 
 Hit `Ctrl + Shift + P` and use Package Control to install these packages:
 
-BracketHighlighter
-Notepad++.tmtheme
-AngularJS
-DocBlockr
-Emmet
-LESS
-Stylus
-Phoenix Theme
-Sublime-Github
+BracketHighlighter  
+Notepad++.tmtheme  
+AngularJS  
+DocBlockr  
+Emmet  
+LESS  
+Stylus  
+Phoenix Theme  
+Sublime-Github  
+
+Fin
+---
+
+Restart Sublime Text Editor!
