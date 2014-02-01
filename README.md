@@ -37,6 +37,8 @@ into
 
 This makes Sublime support text/template, text/html and text/ng-template.
 
+You can also download the HTML.sublime-package file and replace the one found inside your installation.
+
 Packages
 --------
 
