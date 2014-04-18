@@ -54,7 +54,9 @@ Emmet
 LESS  
 Stylus  
 Phoenix Theme  
-Sublime-Github  
+Sublime-Github
+SublimeLinter3
+Floobits
 
 Fin
 ---
