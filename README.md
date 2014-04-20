@@ -57,6 +57,7 @@ Phoenix Theme
 Sublime-Github
 SublimeLinter3
 Floobits
+GoSublime
 
 Fin
 ---
