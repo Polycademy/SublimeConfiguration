@@ -13,6 +13,25 @@ Font
 
 Acquire the Source Code Pro font and install this into your computer (https://github.com/adobe/source-code-pro)
 
+Packages
+--------
+
+Install Sublime Text 3 Package Control (https://sublime.wbond.net/installation)
+
+Hit `Ctrl + Shift + P` and use Package Control to install these packages:
+
+BracketHighlighter  
+Notepad++.tmtheme  
+AngularJS  
+DocBlockr  
+Emmet  
+LESS  
+Stylus  
+Phoenix Theme  
+SublimeLinter3
+Floobits
+GoSublime
+
 Settings
 --------
 
@@ -38,26 +57,6 @@ into
 This makes Sublime support text/template, text/html and text/ng-template.
 
 You can also download the HTML.sublime-package file and replace the one found inside your installation. Make sure to backup the old one before doing so.
-
-Packages
---------
-
-Install Sublime Text 3 Package Control (https://sublime.wbond.net/installation)
-
-Hit `Ctrl + Shift + P` and use Package Control to install these packages:
-
-BracketHighlighter  
-Notepad++.tmtheme  
-AngularJS  
-DocBlockr  
-Emmet  
-LESS  
-Stylus  
-Phoenix Theme  
-Sublime-Github
-SublimeLinter3
-Floobits
-GoSublime
 
 Fin
 ---
