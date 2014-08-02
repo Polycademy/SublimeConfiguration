@@ -31,6 +31,7 @@ Phoenix Theme
 SublimeLinter3
 Floobits
 GoSublime
+Elixir
 
 Settings
 --------
