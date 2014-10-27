@@ -20,18 +20,29 @@ Install Sublime Text 3 Package Control (https://sublime.wbond.net/installation)
 
 Hit `Ctrl + Shift + P` and use Package Control to install these packages:
 
+```
 BracketHighlighter  
 Notepad++.tmtheme  
-AngularJS  
-DocBlockr  
-Emmet  
-LESS  
-Stylus  
+DocBlockr
+Emmet
 Phoenix Theme  
 SublimeLinter3
 Floobits
-GoSublime
+MarkdownEditing
+SublimeTableEditor
+Open-Url
+```
+
+### Language/Framework Specific Packages
+
+```
+Nginx
+Elm
 Elixir
+GoSublime
+LESS  
+AngularJS
+```
 
 Settings
 --------
@@ -45,19 +56,44 @@ Sublime Text Editor does not normally highlight the syntax of HTML that inside c
 
 In order to make Sublime run syntax highlighting, first find the HTML.sublime-package zip archive. This is usually located where Sublime was installed. Copy this archive somewhere else and unzip. Open up HTML.tmLanguage file. On line 286 change:
 
-```
+```xml
 <string>(?:^\s+)?(&lt;)((?i:script))\b(?![^&gt;]*/&gt;)</string>
 ```
 
 into
 
-```
+```xml
 <string>(?:^\s+)?(&lt;)((?i:script))\b(?![^&gt;]*/&gt;)(?!.*type=["']text/(template|html|ng-template)['"])</string>
 ```
 
 This makes Sublime support text/template, text/html and text/ng-template.
 
 You can also download the HTML.sublime-package file and replace the one found inside your installation. Make sure to backup the old one before doing so.
+
+MarkdownEditing Theme Settings
+------------------------------
+
+This is for Github Flavored Markdown:
+
+```json
+{
+    "extensions": [
+        "mdown",
+        "txt",
+        "md"
+    ],
+    "font_options": [
+        "subpixel_antialias",
+        "directwrite"
+    ],
+    "color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+    "draw_centered": false,
+    "word_wrap": true,
+    "wrap_width": false,
+    "line_numbers": true,
+    "highlight_line": true
+}
+```
 
 Fin
 ---
