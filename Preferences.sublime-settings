@@ -1,27 +1,30 @@
 {
     "color_scheme": "Packages/Notepad++.tmTheme",
+    "theme": "Phoenix Light.sublime-theme",
+    "phoenix_color_blue": true,
+    "phoenix_dirty_bottom_bar": true,
+    "phoenix_dirty_bottom_bar_red": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_solid_current_tab": true,
+	"phoenix_color_expanded_folder": true,
     "default_line_ending": "unix",
-    "enable_tab_scrolling": false,
-    "font_face": "Source Code Pro",
-    "font_options":
-    [
-    	"no_bold",
-    	"subpixel_antialias",
-    	"directwrite"
-    ],
-    "font_size": 11,
     "highlight_line": true,
-    "ignored_packages":
-    [
-    	"Vintage"
-    ],
+    "show_line_endings": true,
     "line_padding_bottom": 1,
     "line_padding_top": 1,
-    "phoenix_color_blue": true,
-    "show_encoding": true,
-    "show_line_endings": true,
     "tab_size": 4,
-    "theme": "Phoenix Light.sublime-theme",
     "translate_tabs_to_spaces": true,
-    "word_wrap": true
+    "word_wrap": true,
+    "font_size": 10,
+    "font_face": "Source Code Pro",
+    "font_options": [
+        "no_bold",
+        "subpixel_antialias",
+        "directwrite"
+    ],
+    "enable_tab_scrolling": false,
+    "show_encoding": true,
+    "ignored_packages": [
+        "Vintage"
+    ]
 }
