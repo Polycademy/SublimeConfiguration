@@ -42,6 +42,7 @@ Elixir
 GoSublime
 LESS  
 AngularJS
+Nix
 ```
 
 Settings
