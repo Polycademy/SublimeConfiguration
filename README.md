@@ -43,6 +43,8 @@ GoSublime
 LESS  
 AngularJS
 Nix
+Rust
+Toml
 ```
 
 Settings
