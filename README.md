@@ -11,7 +11,9 @@ Place Notepad++.tmTheme into the Packages location. This can be accessed via `Pr
 Font
 ----
 
-Acquire the Source Code Pro font and install this into your computer (https://github.com/adobe/source-code-pro)
+Acquire the Source Code Pro font and install it into your computer: (https://github.com/adobe-fonts/source-code-pro)
+
+Acquire the Anonymous Pro font and install it into your computer: (http://www.marksimonson.com/fonts/view/anonymous-pro)
 
 Packages
 --------
