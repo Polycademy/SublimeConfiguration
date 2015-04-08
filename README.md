@@ -8,12 +8,16 @@ Theme
 
 Place Notepad++.tmTheme into the Packages location. This can be accessed via `Preferences -> Browse Packages`
 
+Actually just use iPlastic theme, it's better.
+
 Font
 ----
 
 Acquire the Source Code Pro font and install it into your computer: (https://github.com/adobe-fonts/source-code-pro)
 
 Acquire the Anonymous Pro font and install it into your computer: (http://www.marksimonson.com/fonts/view/anonymous-pro)
+
+Anonymous Pro Font is better.
 
 Packages
 --------
@@ -24,7 +28,6 @@ Hit `Ctrl + Shift + P` and use Package Control to install these packages:
 
 ```
 BracketHighlighter  
-Notepad++.tmtheme  
 DocBlockr
 Emmet
 Phoenix Theme  
@@ -33,6 +36,8 @@ Floobits
 MarkdownEditing
 SublimeTableEditor
 Open-Url
+GitSavvy
+SublimeREPL
 ```
 
 ### Language/Framework Specific Packages
