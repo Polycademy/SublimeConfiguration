@@ -8,7 +8,10 @@ Theme
 
 Place Notepad++.tmTheme into the Packages location. This can be accessed via `Preferences -> Browse Packages`
 
-Actually just use iPlastic theme, it's better.
+Actually I've changed:
+
+1. For day time - iPlastic
+2. For night time - Cobalt
 
 Font
 ----
