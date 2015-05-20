@@ -55,6 +55,7 @@ AngularJS
 Nix
 Rust
 Toml
+Mercury (requires manual copy paste into packages directory with "Mercury" as folder name)
 ```
 
 Settings
